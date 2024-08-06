@@ -87,10 +87,6 @@
 
 <p>
     🎯 I'm currently working on freelancer and looking for the next adventure.
-    <br>
-    ☕️‍ When I'm not hacking, I sometimes do some freelance work as fullstack TypeScript dev (Last: <a href="http://chefclub.tv">@Chefclub</a>, <a href="http://allfeat.com">@Allfeat</a>, <a href="https://github.com/Anthm-FR">@Anthm</a>).
-    <br>
-    🎯 Beside programming, I am interested in finance, especially in crypto and do hydrid training (Weight lifting, Running, Cycling).
 </p>
 
 ### Some technologies I like working with
