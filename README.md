@@ -1,11 +1,10 @@
 
 <!--![Hi](https://github.com/Julien712-dev/Julien712-dev.git)-->
-<h1>
- ✌✌<br>
+<h3>
   Hi there ― <br> 
   my name is Julien, <br> 
   passionate senior full-stack developer.
-</h1>
+</h3>
 
 
 <!--## 🛠 Technologies & tools-->
