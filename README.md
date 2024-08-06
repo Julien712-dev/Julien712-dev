@@ -82,13 +82,13 @@
 
 <!-- <br/> -->
 
-### Some words about me
+## Some words about me
 
 <p>
     🎯 I'm currently working on freelancer and looking for the next adventure.
 </p>
 
-### Some technologies I like working with
+## Some technologies I like working with
 
 ```json
 {
