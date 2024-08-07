@@ -82,12 +82,6 @@
 
 <!-- <br/> -->
 
-<h3> Some words about me </h3>
-
-<p>
-    🎯 I'm currently working on freelancer and looking for the next adventure.
-</p>
-
 #### ― See you! 👋
 
 <br>
