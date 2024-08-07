@@ -88,18 +88,7 @@
     🎯 I'm currently working on freelancer and looking for the next adventure.
 </p>
 
-<h3> Some technologies I like working with </h3>
-
-```json
-{
-  "frontend": ["typescript", "react", "next.js", "svelte", "css|tailwindcss|mui", "storybook"],
-  "backend": ["typescript", "nodejs", "express|nest.js", "Firebase", "mongodb|postgres|prisma", "rust@alpha"],
-  "blockchain": ["solidity", "rust:substrate|ink!", "web3|ethers.js", "truffle|hardhat", "rust:solana|anchor"],
-  "ops@alpha": ["linux", "bash|zx", "docker", "pm2", "CI/CD", "ssh", "tmux", "zsh", "git", "gcp"],
-}
-```
-
-#### ― See ya! 👋
+#### ― See you! 👋
 
 <br>
 
